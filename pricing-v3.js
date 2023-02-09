@@ -80,7 +80,15 @@ var checkboxes = {
   seo: document.getElementById("seo"),
   hosting: document.getElementById("hosting"),
 
- //For Masterclasses Checkboxes
+  //For Video Production
+  onSite: document.getElementById("onSite"),
+  postProd: document.getElementById("postProd"),
+  animation: document.getElementById("animation"),
+  photograph: document.getElementById("photograph"),
+  broll: document.getElementById("broll"),
+  vidDist: document.getElementById("vidDist"),
+  
+  //For Masterclasses Checkboxes
   classOnSite: document.getElementById("classOnSite"),
   withPresentation: document.getElementById("withPresentation"),
   leave: document.getElementById("leave"),
